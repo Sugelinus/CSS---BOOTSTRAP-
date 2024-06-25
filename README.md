@@ -1,6 +1,7 @@
 # CSS---BOOTSTRAP-
 # CSS styles example
-An example of styling a page using Iternal css with selectors and various properties
+An example of styling a page using Iternal css with selectors and various properties.  CSS flexbox and box models.
+
 
 # Bootstrap Website
 
