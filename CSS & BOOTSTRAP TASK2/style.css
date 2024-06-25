@@ -1,0 +1,30 @@
+body {
+    background-color: #fffcfc;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar-brand {
+    color: #ff9800 !important;
+}
+
+.card {
+    border-color: #ff9800;
+}
+
+.btn-primary {
+    background-color: #ff9800;
+    border-color: #ff9800;
+}
+
+.carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.alert {
+    margin-bottom: 1.5rem;
+}
+
+.card {
+    margin: 1.5rem 0;
+}
